@@ -16,14 +16,19 @@ I'm a software engineering student interested in **computer vision** and **indus
 ### FractureVision-AI  
 [Repository](https://github.com/hayrunnisaiyikosker/FractureVision-AI)
 
-Deep learning–based X-ray fracture detection system using YOLOv8.
+Deep learning–based X-ray fracture detection system built with YOLOv8, trained on 40,000+ augmented medical images.
 
-- Trained on 40,000+ augmented X-ray images  
-- 100+ epoch training process  
-- Custom dataset preparation & augmentation  
-- Bounding box–based fracture localization  
-- Model evaluation & real-time inference  
-- **Tech:** Python, YOLOv8, OpenCV, PyQt5  
+The model performs real-time fracture localization using bounding box detection and achieves:
+- mAP@0.5: 0.72  
+- Precision: 0.85  
+- Recall: 0.70  
+
+Key contributions:
+- Custom dataset preparation & augmentation pipeline
+- 100+ epoch training with performance tracking
+- Model evaluation & metrics analysis
+- Real-time inference with PyQt5 desktop interface
+- Tech Stack: Python, YOLOv8, OpenCV, PyQt5
 
 ### Industrial Stone Measurement
 [Repository](https://github.com/hayrunnisaiyikosker/industrial-stone-measurement)
