@@ -48,11 +48,11 @@ Foundational object detection experiments exploring YOLOv8, real-time inference,
 - Industrial and engineering-oriented applications
 
 ## Technical Skills
-**Languages:** Python, C, C#
-**Computer Vision:** OpenCV, Open3D, YOLO  
-**Tools & Frameworks:** PyQt5, Git 
-**Data & Processing:** NumPy, Image Processing, 3D Visualization  
-**Databases:** PostgreSQL
+- **Languages:** Python, C, C#
+- **Computer Vision:** OpenCV, Open3D, YOLO  
+- **Tools & Frameworks:** PyQt5, Git 
+- **Data & Processing:** NumPy, Image Processing, 3D Visualization  
+- **Databases:** PostgreSQL
 
 ## Currently Learning
 - Backend Development & DevOps (SFWE477)
